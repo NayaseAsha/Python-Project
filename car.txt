@@ -1,0 +1,5 @@
+101,Toyota,AC,5,30
+102,Honda,Non-AC,5,30
+103,Ford,AC,7,30
+104,BMW,AC,4,20
+105,Audi,Non-AC,5,30106,TATA,AC,4,400
